@@ -4,4 +4,4 @@ require('../less/main.less');
 
 import React from "react";
 
-React.render(<div className="myDiv">Hello Electron!</div>, document.getElementById('content'));
+React.render(<div className="myDiv">Cosa</div>, document.getElementById(''));
